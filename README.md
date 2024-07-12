@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ivalera
 - 👀 I’m interested in Road bikes and some bike sports
-- 🌱 I’m currently learning React
+- 🌱 I’m currently learning JS, React, MUI
 - 📫 How to reach me, here my telegram: @vsvch
 
 <!---
